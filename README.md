@@ -45,6 +45,14 @@ This project consists of two applications: a JavaFX frontend for user interactio
 ## Screenshots
 
 
+![Screenshot (29)](https://github.com/Lewaa200/inventory-managament-system-SpringBoot/assets/145552018/b2cfd447-bc8c-4e9c-b06a-4a6e83bf3388)
+![Screenshot (30)](https://github.com/Lewaa200/inventory-managament-system-SpringBoot/assets/145552018/4c81e427-322b-4076-b180-0671fd6171a5)
+![Screenshot (31)](https://github.com/Lewaa200/inventory-managament-system-SpringBoot/assets/145552018/4b2c42aa-cdec-4b76-a2d1-6f8ef3b0ddc0)
+![Screenshot (32)](https://github.com/Lewaa200/inventory-managament-system-SpringBoot/assets/145552018/9b852b1a-f12d-497a-81b7-2d16a1fb422f)
+![Screenshot (33)](https://github.com/Lewaa200/inventory-managament-system-SpringBoot/assets/145552018/a667b925-8ff1-4c33-8e10-fb9ee3ab20be)
+
+
+
 ## Installation
 
 ### Prerequisites
