@@ -11,7 +11,6 @@ This project consists of two applications: a JavaFX frontend for user interactio
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
